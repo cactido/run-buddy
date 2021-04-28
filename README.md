@@ -12,3 +12,5 @@ https://cactido.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Travis
+
+### ©️2019 Run Buddy, Inc 
